@@ -1,0 +1,7 @@
+This is java project for demo
+
+maven commands
+mvn clean
+mvn package
+mvn install 
+mvn deploy
