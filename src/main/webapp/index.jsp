@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Welcome to BCReddy DevOps youtube Channel..Practice Made Perfect</h2>
+<h2>Welcome to my website</h2>
 </body>
 </html>
 
